@@ -18,7 +18,7 @@ I built this project to practice:
 - Using Git and GitHub for version control
 
 ## Live Demo
-[Check it out here!](https://yourusername.github.io/rock-paper-scissors)
+[Check it out here!](https://Xhaurya.github.io/rock-paper-scissors)
 
 ---
 
